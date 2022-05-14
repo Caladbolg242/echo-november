@@ -36,10 +36,10 @@ export default {
     return {
       header: {
         planet: "Hercynia",
-        year: "5014u",
-        system: "Ardennes-3",
-        gate: "Atlas-Quanokrim",
-        ring: "Atlas-Line",
+        year: "5016",
+        system: "Echo-November",
+        gate: "Rào Cỏ",
+        ring: "Annamite",
         headerTitle: "Mirrorsmoke",
         headerSubtitle: "Mercenary Company",
         subheaderTitle: "Crisis Response",
